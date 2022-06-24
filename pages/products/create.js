@@ -35,7 +35,7 @@ function Create(){
         <>
             <div>
                 <h1>
-                    <a>Crear nuevo producto</a>
+                    <u>Crear nuevo producto</u>
                 </h1>
                 <form>
                     <input type="text" name='name' value={product.name} onChange={handleChange}/>
